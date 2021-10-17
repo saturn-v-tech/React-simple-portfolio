@@ -16,7 +16,7 @@ const projects = [
     link: 'https://patangstore.herokuapp.com/',
   },
   {
-    title: 'Master thesis: How the EU Taxonomy influences the construction industrys transition from a linear to a circular economy',
+    title: 'Master thesis3',
     image: './images/project2-768.png',
     description: 'Full featured ecommerce store built with MERN stack and Paypal payments API. Admin page to manage customers, products & orders.',
     tools: ['React', 'Redux', 'MongoDB', 'JWT', 'Express'],
@@ -24,7 +24,7 @@ const projects = [
     link: 'https://patangstore.herokuapp.com/',
   },
   {
-    title: 'Master thesis: How the EU Taxonomy influences the construction industrys transition from a linear to a circular economy',
+    title: 'Master thesis4',
     image: './images/project2-768.png',
     description: 'Full featured ecommerce store built with MERN stack and Paypal payments API. Admin page to manage customers, products & orders.',
     tools: ['React', 'Redux', 'MongoDB', 'JWT', 'Express'],
@@ -32,7 +32,7 @@ const projects = [
     link: 'https://patangstore.herokuapp.com/',
   },
   {
-    title: 'Master thesis: How the EU Taxonomy influences the construction industrys transition from a linear to a circular economy',
+    title: 'Master thesis5',
     image: './images/project2-768.png',
     description: 'Full featured ecommerce store built with MERN stack and Paypal payments API. Admin page to manage customers, products & orders.',
     tools: ['React', 'Redux', 'MongoDB', 'JWT', 'Express'],
