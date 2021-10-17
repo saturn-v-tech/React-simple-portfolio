@@ -15,6 +15,30 @@ const projects = [
     github: 'https://github.com/codewithvk/patangstore',
     link: 'https://patangstore.herokuapp.com/',
   },
+  {
+    title: 'Master thesis: How the EU Taxonomy influences the construction industrys transition from a linear to a circular economy',
+    image: './images/project2-768.png',
+    description: 'Full featured ecommerce store built with MERN stack and Paypal payments API. Admin page to manage customers, products & orders.',
+    tools: ['React', 'Redux', 'MongoDB', 'JWT', 'Express'],
+    github: 'https://github.com/codewithvk/patangstore',
+    link: 'https://patangstore.herokuapp.com/',
+  },
+  {
+    title: 'Master thesis: How the EU Taxonomy influences the construction industrys transition from a linear to a circular economy',
+    image: './images/project2-768.png',
+    description: 'Full featured ecommerce store built with MERN stack and Paypal payments API. Admin page to manage customers, products & orders.',
+    tools: ['React', 'Redux', 'MongoDB', 'JWT', 'Express'],
+    github: 'https://github.com/codewithvk/patangstore',
+    link: 'https://patangstore.herokuapp.com/',
+  },
+  {
+    title: 'Master thesis: How the EU Taxonomy influences the construction industrys transition from a linear to a circular economy',
+    image: './images/project2-768.png',
+    description: 'Full featured ecommerce store built with MERN stack and Paypal payments API. Admin page to manage customers, products & orders.',
+    tools: ['React', 'Redux', 'MongoDB', 'JWT', 'Express'],
+    github: 'https://github.com/codewithvk/patangstore',
+    link: 'https://patangstore.herokuapp.com/',
+  },
   
 ];
 
