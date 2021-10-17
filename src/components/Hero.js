@@ -14,7 +14,7 @@ const Hero = () => {
       autoplay: true,
       animationData: require('./astronaout.json'),
     });
-    animate.setSpeed(0.5);
+    animate.setSpeed(0.4);
   }, []);
 
   return (
